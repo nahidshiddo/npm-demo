@@ -1,4 +1,4 @@
 Installation
 
 
-npm install npm-demo-package
+npm install npm-demo-package11
